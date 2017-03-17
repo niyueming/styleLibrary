@@ -21,6 +21,7 @@
     <color name="color_background">#e5e7ef</color>
     <color name="color_line">#c3cbd9</color>
     <color name="color_ripple">#88000000</color>
+    <color name="color_indicator_bg">#88000000</color>
 
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
