@@ -20,31 +20,35 @@
         <item name="android:gravity">center</item>
     </style>
 
-    <style name="NTextView" >
+    <style name="NParent" >
 
     </style>
 
-    <style name="NButton" >
+    <style name="NTextView" parent="NParent">
 
     </style>
 
-    <style name="NCheckBox" >
+    <style name="NButton" parent="NParent">
 
     </style>
 
-    <style name="NEditText" >
+    <style name="NCheckBox" parent="NParent">
 
     </style>
 
-    <style name="NImageView" >
+    <style name="NEditText" parent="NParent">
 
     </style>
 
-    <style name="NRatingBar" >
+    <style name="NImageView" parent="NParent">
 
     </style>
 
-    <style name="NProgressBar" >
+    <style name="NRatingBar" parent="NParent">
+
+    </style>
+
+    <style name="NProgressBar" parent="NParent">
 
     </style>
 
