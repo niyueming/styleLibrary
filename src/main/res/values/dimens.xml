@@ -11,5 +11,11 @@
   -->
 
 <resources>
+    <dimen name="dimen5">5dp</dimen>
+    <dimen name="dimen15">15dp</dimen>
+    <dimen name="dimen48">48dp</dimen>
+
+    <!--字体大小-->
+    <dimen name="size14">14sp</dimen>
 
 </resources>
