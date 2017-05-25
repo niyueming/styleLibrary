@@ -17,5 +17,15 @@
 
     <!--字体大小-->
     <dimen name="size14">14sp</dimen>
+    <dimen name="size15">15sp</dimen>
+    <dimen name="size16">16sp</dimen>
+    <dimen name="size17">17sp</dimen>
+    <dimen name="size18">18sp</dimen>
+    <dimen name="size19">19sp</dimen>
+    <dimen name="size20">20sp</dimen>
+    <dimen name="size21">21sp</dimen>
+    <dimen name="size22">22sp</dimen>
+    <dimen name="size23">23sp</dimen>
+    <dimen name="size24">24sp</dimen>
 
 </resources>
