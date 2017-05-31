@@ -29,6 +29,7 @@
     <color name="color_aph_text_secondary">#999999</color>
     <color name="color_main_unselected">#999999</color>
     <color name="color_background">#f5f5f5</color>
+    <color name="color_zone_background">#fafafa</color>
     <color name="color_line">#dddddd</color>
 
     <color name="white">#ffffff</color>
