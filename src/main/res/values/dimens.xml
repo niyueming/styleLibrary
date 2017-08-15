@@ -12,6 +12,7 @@
 
 <resources>
     <dimen name="dimen5">5dp</dimen>
+    <dimen name="dimen8">8dp</dimen>
     <dimen name="dimen10">10dp</dimen>
     <dimen name="dimen15">15dp</dimen>
     <dimen name="dimen20">20dp</dimen>
@@ -19,6 +20,8 @@
     <dimen name="dimen40">40dp</dimen>
     <dimen name="dimen48">48dp</dimen>
     <dimen name="dimen50">50dp</dimen>
+    <dimen name="dimen200">200dp</dimen>
+    <dimen name="dimen250">250dp</dimen>
 
     <!--字体大小-->
     <dimen name="size12">12sp</dimen>
