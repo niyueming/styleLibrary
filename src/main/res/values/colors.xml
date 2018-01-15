@@ -21,7 +21,8 @@
 
 
     <color name="color_aph">#c7000b</color>
-    <color name="color_aph_home">#4f5764</color>
+    <color name="color_aph_home">#1cb8e6</color>
+    <color name="color_aph_my">#4f5764</color>
     <color name="color_aph_yellow">#fe8122</color>
     <color name="color_aph_green">#2d831c</color>
     <color name="color_aph_red">#b71c1c</color>
